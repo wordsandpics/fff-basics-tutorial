@@ -2,9 +2,9 @@ title: FFF basics
 author: wordsandpics
 author_url: https://github.com/wordsandpics/
 ## The guide's GitHub repository (the owner creates it on github.com; the sidebar link points here).
-repo_url: "https://github.com/wordsandpics/fff-basics"
+repo_url: "https://github.com/wordsandpics/fff-basics-tutorial"
 description: A beginner's guide to downloading and managing fanfiction with Calibre and FanFicFare
-baseurl: "/fff-basics"
+baseurl: "/fff-basics-tutorial"
 url: "https://wordsandpics.github.io"
 
 markdown: kramdown
