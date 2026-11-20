@@ -1,0 +1,48 @@
+title: FFF basics
+author: wordsandpics
+author_url: https://github.com/wordsandpics/
+## The guide's GitHub repository (the owner creates it on github.com; the sidebar link points here).
+repo_url: "https://github.com/wordsandpics/fff-basics"
+description: A beginner's guide to downloading and managing fanfiction with Calibre and FanFicFare
+baseurl: "/fff-basics"
+url: "https://wordsandpics.github.io"
+
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+exclude:
+  - README.md
+  - AGENTS.md
+  - DECISIONS.md
+  - TODO.md
+  - RESEARCH-camoufox.md
+  - SCREENSHOT-LIST.md
+  - scripts
+  - screenshots-draft
+  - sample
+
+# Navigation (only pages that exist so far)
+nav:
+  - title: Start here
+    pages:
+      - label: Overview
+        url: /
+      - label: What's what
+        url: /whats-what/
+  - title: Hands-on steps
+    pages:
+      - label: 1. Add your first story to Calibre
+        url: /steps/add-your-first-story/
+      - label: 2. Install FanFicFare
+        url: /steps/install-fanficfare/
+      - label: 3. Set up FanFicFare
+        url: /steps/set-up-fanficfare/
+      - label: 4. Download a story from its link
+        url: /steps/download-from-a-link/
+      - label: 5. Keep a story up to date
+        url: /steps/update-a-story/
+  - title: Keep going
+    pages:
+      - label: What next?
+        url: /next-steps/

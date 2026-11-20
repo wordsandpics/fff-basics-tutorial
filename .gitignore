@@ -1,0 +1,11 @@
+.site-preview/
+.DS_Store
+screenshots-draft/
+
+# Working files: kept on this computer, not published (owner's decision, 2026-11-20)
+AGENTS.md
+DECISIONS.md
+TODO.md
+RESEARCH-camoufox.md
+SCREENSHOT-LIST.md
+sample/
