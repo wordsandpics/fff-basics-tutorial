@@ -1,6 +1,6 @@
 # FFF basics
 
-<!-- No cover image yet: fff-covers has a social image here (assets/img/fff-covers-social2.png). -->
+![FFF basics: a beginner's guide to Calibre + FanFicFare](assets/img/fff-basics.png)
 
 If you want to keep your favourite fanfiction safe on your own computer, but Calibre and FanFicFare sound like a lot: this guide is for you.
 
