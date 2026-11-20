@@ -6,13 +6,13 @@ If you want to keep your favourite fanfiction safe on your own computer, but Cal
 
 **FFF basics** is a beginner-friendly guide to downloading and keeping fanfiction with Calibre and FanFicFare. It starts from zero, with Calibre installed and nothing else, and ends with a small library of your own that you can read and keep up to date. It uses AO3 for every example.
 
-> **Status:** draft. Nothing is published yet. Tested on a Mac with Calibre 9.18 and FanFicFare 4.63.0. Not yet tested on Windows.
+> Tested on a Mac with Calibre 9.18 and FanFicFare 4.63.0. Not yet tested on Windows.
 
 ***
 
 ## 📖 Read the guide
 
-### **[link to come once the site is published]**
+### **[wordsandpics.github.io/fff-basics-tutorial](https://wordsandpics.github.io/fff-basics-tutorial/)**
 
 
 ***
