@@ -4,9 +4,7 @@
 
 If you want to keep your favourite fanfiction safe on your own computer, but Calibre and FanFicFare sound like a lot: this guide is for you.
 
-**FFF basics** is a beginner-friendly guide to downloading and keeping fanfiction with Calibre and FanFicFare. It starts from zero, with Calibre installed and nothing else, and ends with a small library of your own that you can read and keep up to date. It uses AO3 for every example.
-
-> Tested on a Mac with Calibre 9.18 and FanFicFare 4.63.0. Not yet tested on Windows.
+**FFF basics** is a beginner-friendly guide to downloading and keeping fanfiction with Calibre and FanFicFare. It starts from zero, with Calibre installed and nothing else, and ends with a small library of your own that you can read and keep up to date. 
 
 ***
 
@@ -32,12 +30,12 @@ After that, [What next?](next-steps.md) has ideas for reading on a phone or e-re
 The guide is **modular**. This is the basic module. More advanced modules like anthologies, custom columns and tidying tags might come later. Automatic covers have their own guide: **[fff-covers](https://github.com/wordsandpics/fff-covers)**.
 
 
-
+> Tested on a Mac with Calibre 9.18 and FanFicFare 4.63.0. Not yet tested on Windows.
 ***
 
 ## Changelog
 
-No changelog yet. There's nothing published to change.
+2026-11-20: first published
 
 ***
 
